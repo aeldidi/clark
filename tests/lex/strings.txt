@@ -1,0 +1,11 @@
+'\
+' "hel\"lo" 'hel\'lo' '''hel'lo''' """hel"\lo""" r'he\"llo' r"he\'llo" b"¶hello" b'hello' b'''hello''' b"""hello""" rb'hello' br"hello"
+"""
+hello
+""" "" '' "
+'
+r"\
+"
+r"
+b"
+rb"

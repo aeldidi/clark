@@ -1,0 +1,7 @@
+FLOAT:      1.2
+FLOAT:      0.1
+FLOAT:      1.2e+63
+FLOAT:      1.2e-63
+FLOAT:      1e+100
+FLOAT:      0
+<stdin>:5:7: float too big for 64 bits: 1e1234567890
